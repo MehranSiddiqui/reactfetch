@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactfetch/static/css/main.d4c30e10.chunk.css",
+    "main.js": "/reactfetch/static/js/main.f365e50e.chunk.js",
+    "main.js.map": "/reactfetch/static/js/main.f365e50e.chunk.js.map",
+    "runtime~main.js": "/reactfetch/static/js/runtime~main.68f31f51.js",
+    "runtime~main.js.map": "/reactfetch/static/js/runtime~main.68f31f51.js.map",
+    "static/js/2.5d0f8bfd.chunk.js": "/reactfetch/static/js/2.5d0f8bfd.chunk.js",
+    "static/js/2.5d0f8bfd.chunk.js.map": "/reactfetch/static/js/2.5d0f8bfd.chunk.js.map",
+    "static/js/3.7fa365a8.chunk.js": "/reactfetch/static/js/3.7fa365a8.chunk.js",
+    "static/js/3.7fa365a8.chunk.js.map": "/reactfetch/static/js/3.7fa365a8.chunk.js.map",
+    "index.html": "/reactfetch/index.html",
+    "precache-manifest.381fa8272aea38ad4bf5f9b5f35e1dc7.js": "/reactfetch/precache-manifest.381fa8272aea38ad4bf5f9b5f35e1dc7.js",
+    "service-worker.js": "/reactfetch/service-worker.js",
+    "static/css/main.d4c30e10.chunk.css.map": "/reactfetch/static/css/main.d4c30e10.chunk.css.map"
+  }
+}
